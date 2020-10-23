@@ -18,7 +18,7 @@ void inicio() //para redimensionar las coordenadas
 
 void display (void)
 {
-for(int i = 1; 1 <= 10; i = i+1)
+for(int i = 1; i <= 10; i = i+1)
 {
     glClearColor(1,1,1,1);
     glClear(GL_COLOR_BUFFER_BIT);
